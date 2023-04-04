@@ -215,7 +215,7 @@ body{
 
     .rodape{
         margin: 0 2rem;
-        width: 100vh;
+        height: 100vh;
     }
 
     .rodape__lista{
