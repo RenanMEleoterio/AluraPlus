@@ -228,3 +228,11 @@ body{
         margin-top: 0.5rem;
     }
 }
+
+@media screen and(max-width: 428px) {
+
+    .rodape{
+        margin-top: 8rem;
+    }
+    
+}
