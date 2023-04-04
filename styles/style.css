@@ -217,6 +217,7 @@ body{
     .rodape{
         margin: 6rem 2rem 0rem 2rem;
         height: 100vh;
+        padding-bottom: 1rem;
     }
     
     .rodape__imagem{
