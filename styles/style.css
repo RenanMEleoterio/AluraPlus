@@ -212,6 +212,7 @@ body{
 
     .main__dispositivo__aparelhos{
         display: block;
+        margin-bottom: 1rem;
     }
     
     #ultima_descricao{
