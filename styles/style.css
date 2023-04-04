@@ -215,7 +215,7 @@ body{
     }
 
     .rodape{
-        margin: 6rem 2rem 0rem 2rem;
+        margin: 8rem 2rem 0rem 2rem;
         text-align: center;
     }
     
@@ -227,12 +227,4 @@ body{
         display: block;
         margin-top: 0.5rem;
     }
-}
-
-@media screen and(max-width: 500px) {
-
-    .rodape{
-        margin-top: 8rem;
-    }
-    
 }
