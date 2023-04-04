@@ -213,6 +213,10 @@ body{
     .main__dispositivo__aparelhos{
         display: block;
     }
+    
+    #ultima_descricao{
+        margin-bottom: 2rem;
+    }
 
     .rodape{
         margin: 8rem 2rem 0rem 2rem;
