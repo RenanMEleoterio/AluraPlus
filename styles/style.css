@@ -180,3 +180,43 @@ body{
     color: var(--cinza-secundario);
     margin-top: 1rem;
 }
+
+@media screen and (max-width: 768px){
+    .main__conteudo{
+        display: block;
+        background-image: none;
+        text-align: center;
+        height: 90vh;
+    }
+
+    .main__conteiner__box{
+        margin: 2rem 3rem;
+        text-align: center;
+    }
+
+    .main__conteudo__imagem{
+        width: 50vw;
+    }
+
+    .main__conteiner{
+        display: block;
+
+    }
+    
+    .main__conteudo__secundario{
+        margin:0 2rem;
+        text-align: center;
+    }
+
+    .main__dispositivo__aparelhos{
+        display: block;
+    }
+
+    .rodape{
+        margin: 0 2rem;
+    }
+
+    .rodape__lista{
+        display: block;
+    }
+}
